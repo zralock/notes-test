@@ -1,0 +1,31 @@
+
+::ng-deep .panel-default {
+  border: 0;
+  border-radius: 5px;
+  padding: 5px 0;
+  margin: 5px 0;
+}
+
+::ng-deep .btn {
+  margin-right: 5px;
+}
+
+.languages {
+  float: right;
+
+  small {
+    margin: 0 5px;
+  }
+
+  a {
+    cursor: pointer;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.content {
+  clear: both;
+}

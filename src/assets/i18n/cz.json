@@ -1,0 +1,15 @@
+{
+  "app.title": "Poznámky - testovací aplikace",
+  "button.edit-save":  "Uložit",
+  "button.create-save": "Vytvořit",
+  "button.edit-note":  "Upravit poznámku",
+  "button.create-note": "Vytvořit poznámku",
+  "button.delete-note":  "Smazat poznámku",
+  "button.back-to-list": "Zpět na seznam poznámek",
+  "button.note-detail":  "Přejít na detail poznámky",
+  "note.title": "Poznámka",
+  "note.detail": "Detail poznámky",
+  "alert.success-edit": "Poznámka byla úspěšně upravena",
+  "alert.success-create": "Poznámka byla úspěšně vytvořena. Můžete vytvořit novou",
+  "alert.success-delete": "Poznámka byla úspěšně smazána"
+}

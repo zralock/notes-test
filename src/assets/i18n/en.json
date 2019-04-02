@@ -1,0 +1,15 @@
+{
+  "app.title": "Notes - test app",
+  "button.edit-save":  "Save changes",
+  "button.create-save": "Create",
+  "button.edit-note":  "Edit note",
+  "button.create-note": "Create note",
+  "button.delete-note":  "Delete note",
+  "button.back-to-list": "Go back to note list",
+  "button.note-detail":  "Go to note detail",
+  "note.title": "Title",
+  "note.detail": "Note detail",
+  "alert.success-edit": "Note was successfully edited",
+  "alert.success-create": "Note was successfully created. You can create another one",
+  "alert.success-delete": "Note was successfully deleted"
+}
